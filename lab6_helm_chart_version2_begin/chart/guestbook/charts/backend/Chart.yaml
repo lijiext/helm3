@@ -1,0 +1,6 @@
+apiVersion: v2
+name: backend
+appVersion: "1.0"
+description: A Helm Chart for Guestbook Backend 1.0
+version: 0.1.0
+type: application
