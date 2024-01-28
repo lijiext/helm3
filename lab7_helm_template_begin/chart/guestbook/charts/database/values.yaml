@@ -1,0 +1,7 @@
+secret:
+  mongo_username: "YWRtaW4="
+  mongo_passwd: "cGFzc3dvcmQ="
+service:
+  type: NodePort
+volume:
+  storage: 100Mi
